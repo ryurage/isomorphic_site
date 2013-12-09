@@ -1,0 +1,38 @@
+{
+  "name": "isomorphic-site",
+  "version": "0.0.0",
+  "description": "Working example of isomorphic JavaScript concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryurage/isomorphic-site.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryurage/isomorphic-site/issues"
+  },
+  "dependencies": {
+    "superagent": "~0.15.7",
+    "express": "~3.4.3",
+    "director": "~1.2.0",
+    "handlebars": "~1.0.12",
+    "hbsfy": "~1.0.0",
+    "underscore": "~1.5.2",
+    "http-proxy": "~0.10.3",
+    "nedb": "~0.9.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "browserify": "~2.35.0",
+    "grunt-browserify": "~1.2.9",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-nodemon": "~0.1.1",
+    "grunt-concurrent": "~0.4.1",
+    "grunt-contrib-stylus": "~0.10.0",
+    "grunt-node-inspector": "~0.1.1"
+  }
+}
