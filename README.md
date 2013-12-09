@@ -72,7 +72,7 @@ This app uses [Grunt](http://gruntjs.com/) to build its assets. To run Grunt, we
 
 ### Run that app!
 
-We'll start up our local Node.js web server using Grunt, so it can automatically do useful things for us when we change files like recompile our assets and restart the server.  Otherwise, you'll be doing a lot of mundane tasks and inputing man 'rs's into your terminal.  Ain't nobody got time for that.
+We'll start up our local Node.js web server using Grunt, so it can automatically do useful things for us when we change files like recompile our assets and restart the server.  Otherwise, you'll be doing a lot of mundane tasks and inputing many 'rs's into your terminal.  Ain't nobody got time for that.
 
     $ grunt server
 
